@@ -17,7 +17,7 @@
     "lint:check": "tsc --noEmit && eslint ./"
   },
   "dependencies": {
-    "@sentry/node": "7.120.0",
+    "@sentry/node": "7.75.0",
     "big.js": "6.2.2",
     "envalid": "8.0.0"
   },

@@ -16,7 +16,7 @@
     "lint:check": "tsc --noEmit && eslint ./"
   },
   "dependencies": {
-    "@sentry/node": "7.120.0",
+    "@sentry/node": "10.15.0",
     "envalid": "8.0.0",
     "lodash-es": "4.17.21"
   },
